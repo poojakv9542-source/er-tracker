@@ -1,0 +1,25 @@
+semester,course_code,course_name,credits,syllabus,status
+1,MA101,Engineering Mathematics I,4,"Matrices; Calculus",Completed
+1,PH101,Engineering Physics,4,"Waves; Optics",Completed
+1,CS101,Programming in C,4,"Variables; Loops; Functions",Completed
+2,MA201,Engineering Mathematics II,4,"Differential Equations",Completed
+2,CS201,Data Structures,4,"Stacks; Queues; Trees",Completed
+2,EC201,Digital Electronics,3,"Logic Gates; Flip Flops",Completed
+3,CS301,Database Management Systems,4,"SQL; Normalization; Transactions",In Progress
+3,CS302,Operating Systems,4,"Processes; Memory Management",In Progress
+3,CS303,Computer Networks,4,"OSI Model; TCP/IP",Not Started
+4,CS401,Software Engineering,4,"SDLC; Testing",Not Started
+4,CS402,Design and Analysis of Algorithms,4,"Sorting; Graph Algorithms",Not Started
+4,CS403,Web Technology,4,"HTML; CSS; JavaScript",Not Started
+5,CS501,Machine Learning,4,"Regression; Classification",Not Started
+5,CS502,Computer Graphics,4,"Rendering; Transformations",Not Started
+5,CS503,Cloud Computing,4,"Virtualization; Cloud Models",Not Started
+6,CS601,Artificial Intelligence,4,"Search; Knowledge Representation",Not Started
+6,CS602,Compiler Design,4,"Lexical Analysis; Parsing",Not Started
+6,CS603,Cyber Security,4,"Encryption; Network Security",Not Started
+7,CS701,Project Phase I,4,"Problem Definition; Design",Not Started
+7,CS702,Internship,4,"Industry Training",Not Started
+7,CS703,Elective I,3,"Elective Topics",Not Started
+8,CS801,Project Phase II,8,"Implementation; Testing; Deployment",Not Started
+8,CS802,Professional Elective,4,"Advanced Topics",Not Started
+8,CS803,Technical Seminar,2,"Research Presentation",Not Started
